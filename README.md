@@ -2,7 +2,7 @@
 
 A test data for fusion of panoramic images and point clouds collected by mobile mapping system
 
-## Our group main page : [LIESMARS Dynamic mapping group](www.bshyang.com)
+## Our group main page : [LIESMARS Dynamic mapping group](http://www.bshyang.com)
 ![liesmars](https://raw.githubusercontent.com/kafeiyin00/TestDataForPanoramicLidar/master/src/liesmars.jpg)
 
 
