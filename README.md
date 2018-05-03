@@ -1,5 +1,10 @@
 # TestDataForPanoramicLidar
+
 A test data for fusion of panoramic images and point clouds collected by mobile mapping system
+
+![liesmars](https://raw.githubusercontent.com/kafeiyin00/TestDataForPanoramicLidar/master/src/liesmars.png)
+
+Our group main page : [LIESMARS Dynamic mapping group](www.bshyang.com)
 
 ## Main description
 This is a test data set collected by the Lynx mobile mapping system in Wuhan University.
@@ -46,3 +51,5 @@ And you will get this result:
 If you use this data in your paper, please cite our work. :)
 
 [Automatic registration of panoramic image sequence and mobile laser scanning data using semantic features, Jianping Li, Bisheng Yang, et.al. 2017, In ISPRS](https://www.sciencedirect.com/science/article/pii/S0924271617303829)
+
+Any question about this data, please contact bshyang@whu.edu.cn lijianping@whu.edu.cn
