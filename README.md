@@ -47,7 +47,7 @@ To avoid the ambiguity,  here is a simple code, projecting the 3d point in the c
 ```
 
 And you will get this result:
-![example](https://raw.githubusercontent.com/kafeiyin00/TestDataForPanoramicLidar/master/src/example.png)
+![example](https://raw.githubusercontent.com/kafeiyin00/TestDataForPanoramicLidar/master/src/example.jpg)
 
 If you use this data in your paper, please cite our work. :)
 
