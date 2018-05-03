@@ -53,4 +53,4 @@ If you use this data in your paper, please cite our work. :)
 
 [Automatic registration of panoramic image sequence and mobile laser scanning data using semantic features, Jianping Li, Bisheng Yang, et.al. 2017, In ISPRS](https://www.sciencedirect.com/science/article/pii/S0924271617303829)
 
-Any question about this data, please contact bshyang@whu.edu.cn lijianping@whu.edu.cn
+Any question about this data, please contact bshyang@whu.edu.cn,lijianping@whu.edu.cn
