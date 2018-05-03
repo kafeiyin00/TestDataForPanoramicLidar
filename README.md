@@ -2,9 +2,10 @@
 
 A test data for fusion of panoramic images and point clouds collected by mobile mapping system
 
-![liesmars](https://raw.githubusercontent.com/kafeiyin00/TestDataForPanoramicLidar/master/src/liesmars.png)
+## Our group main page : [LIESMARS Dynamic mapping group](www.bshyang.com)
+![liesmars](https://raw.githubusercontent.com/kafeiyin00/TestDataForPanoramicLidar/master/src/liesmars.jpg)
 
-Our group main page : [LIESMARS Dynamic mapping group](www.bshyang.com)
+
 
 ## Main description
 This is a test data set collected by the Lynx mobile mapping system in Wuhan University.
