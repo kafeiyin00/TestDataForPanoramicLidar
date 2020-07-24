@@ -19,9 +19,7 @@ Then the laser point clouds are registered with the images for applications like
 recognition, and so on.
 
 ## Data
-The orientation data is stored in the pos.txt file (Be careful that the Euler angles are defined in the NED coordinate system ).
-The corresponding level arm parameter is (0,0,1.1), and boresight parameter is (-1.8, 177.7,-38.5).
-
+The orientation data is stored in the pos.txt file.
 
 ## Example
 To avoid the ambiguity,  here is a simple code, projecting the 3d point in the camera coordinate systme onto the panoramic image:
